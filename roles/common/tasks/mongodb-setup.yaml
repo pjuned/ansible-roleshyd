@@ -16,7 +16,7 @@
     
 - name: Install mongodb
   ansible.builtin.package:
-    name: mongodb-org
+    name: mongodb-org-shell
     state: present
 
 - name: get the catalogue entries count
