@@ -33,11 +33,11 @@
   when: products_count.stdout == "0" and component == "user" # keep double quotes
   #ignore_errors:  true
 
-- name: start and enable catalogue
-  ansible.builtin.service:
-    name: catalogue
-    state: restarted
-    enabled: yes
+# - name: start and enable catalogue
+#   ansible.builtin.service:
+#     name: catalogue
+#     state: restarted
+#     enabled: yes
 
     
 
