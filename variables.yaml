@@ -1,1 +1,2 @@
 MONGODB_HOST: mongodb.devopsju.online
+REDIS_HOST: redis.devopsju.online
