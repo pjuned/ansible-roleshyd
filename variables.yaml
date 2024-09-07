@@ -1,3 +1,10 @@
 MONGODB_HOST: mongodb.devopsju.online
 REDIS_HOST: redis.devopsju.online
 CATALOGUE_HOST: catalogue.devopsju.online
+MYSQL_HOST: mysql.devopsju.online
+USER_HOST:  user.devopsju.online
+CART_HOST:  cart.devopsju.online
+SHIPPING_HOST:  shipping.devopsju.online
+PAYMENT_HOST: payment.devopsju.online
+RABBITMQ_HOST:  rabbitmq.devopsju.online
+DISPATCH_HOST:  dispatch.devopsju.online
